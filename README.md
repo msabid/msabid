@@ -44,7 +44,7 @@ I build intelligent systems — from AI-powered investment dashboards to credit 
 
 ## Connect
 
-- 📍 Kingston, Ontario, Canada
-- 📧 mushfiqabid@gmail.com
+- 📍 Brampton, Ontario, Canada
+- 📧 mushfiqabid@ymail.com
 
 *Open to collaborations on ML/AI projects and data science challenges.*
